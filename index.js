@@ -1,5 +1,5 @@
 /*
-Made by Jesen N#9071
+Made by Rendzy
 Sengaja bikin pake bahasa indo, kalau mau ganti, ganti aja
 */
 const { WAConnection, MessageType } = require("@adiwajshing/baileys");
@@ -122,7 +122,7 @@ ${prefix}about`;
         case "about":
           client.sendMessage(
             from,
-            "Bot ini di buat oleh Jesen N#9071, jika kamu ingin menggunakan bot ini klik saja link yang ada di bawah!\nLink: https://github.com/Jesen-N/termux-wabot-economy",
+            "Bot ini di buat oleh Rendzy",
             text,
             {
               quoted: sen,
